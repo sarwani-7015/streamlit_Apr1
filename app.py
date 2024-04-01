@@ -7,4 +7,4 @@ a = st.number_input("Enter a first number")
 b = st.number_input("Enter a second number")
 
 answer = addition(a,b)
-st,write(answer)
+st.write(answer)
